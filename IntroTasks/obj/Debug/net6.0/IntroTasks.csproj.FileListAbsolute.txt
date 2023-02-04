@@ -1,0 +1,15 @@
+D:\CodeProjects\P416\IntroTasks\IntroTasks\bin\Debug\net6.0\IntroTasks.exe
+D:\CodeProjects\P416\IntroTasks\IntroTasks\bin\Debug\net6.0\IntroTasks.deps.json
+D:\CodeProjects\P416\IntroTasks\IntroTasks\bin\Debug\net6.0\IntroTasks.runtimeconfig.json
+D:\CodeProjects\P416\IntroTasks\IntroTasks\bin\Debug\net6.0\IntroTasks.dll
+D:\CodeProjects\P416\IntroTasks\IntroTasks\bin\Debug\net6.0\IntroTasks.pdb
+D:\CodeProjects\P416\IntroTasks\IntroTasks\obj\Debug\net6.0\IntroTasks.csproj.AssemblyReference.cache
+D:\CodeProjects\P416\IntroTasks\IntroTasks\obj\Debug\net6.0\IntroTasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeProjects\P416\IntroTasks\IntroTasks\obj\Debug\net6.0\IntroTasks.AssemblyInfoInputs.cache
+D:\CodeProjects\P416\IntroTasks\IntroTasks\obj\Debug\net6.0\IntroTasks.AssemblyInfo.cs
+D:\CodeProjects\P416\IntroTasks\IntroTasks\obj\Debug\net6.0\IntroTasks.csproj.CoreCompileInputs.cache
+D:\CodeProjects\P416\IntroTasks\IntroTasks\obj\Debug\net6.0\IntroTasks.dll
+D:\CodeProjects\P416\IntroTasks\IntroTasks\obj\Debug\net6.0\refint\IntroTasks.dll
+D:\CodeProjects\P416\IntroTasks\IntroTasks\obj\Debug\net6.0\IntroTasks.pdb
+D:\CodeProjects\P416\IntroTasks\IntroTasks\obj\Debug\net6.0\IntroTasks.genruntimeconfig.cache
+D:\CodeProjects\P416\IntroTasks\IntroTasks\obj\Debug\net6.0\ref\IntroTasks.dll
