@@ -47,7 +47,7 @@
             //int tam = (int)number;
             //decimal kesr = number - tam;
 
-            Console.WriteLine("Hello");
+            Console.WriteLine("Master");
         }
     }
 }
