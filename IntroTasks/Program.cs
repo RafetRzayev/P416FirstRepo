@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            //Hello from master
             #region Task 1
             //int a = int.Parse(Console.ReadLine());
             ////int countOfDigit = (int)Math.Log10(a) + 1;
