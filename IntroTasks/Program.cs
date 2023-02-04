@@ -33,13 +33,21 @@
 
             #endregion
 
-            decimal number = decimal.Parse(Console.ReadLine());
-            int tam = (int)number;
-            decimal kesr = number - tam;
-            kesr *= 1000000;
-            kesr += tam;
-            kesr /= 1000;
-            Console.WriteLine(kesr);
+            #region Task 3
+            //decimal number = decimal.Parse(Console.ReadLine());
+            //int tam = (int)number;
+            //decimal kesr = number - tam;
+            //kesr *= 1000000;
+            //kesr += tam;
+            //kesr /= 1000;
+            //Console.WriteLine(kesr);
+            #endregion
+
+            //decimal number = decimal.Parse(Console.ReadLine());
+            //int tam = (int)number;
+            //decimal kesr = number - tam;
+
+            Console.WriteLine("Hello");
         }
     }
 }
